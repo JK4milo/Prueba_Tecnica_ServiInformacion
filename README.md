@@ -16,5 +16,8 @@ Está base de datos recolecta 10 categorías diferentes de fracturas. El objetiv
 ![ffdfd](https://storage.googleapis.com/kagglesdsdata/datasets/4257126/7394372/Bone%20Break%20Classification/Bone%20Break%20Classification/Comminuted%20fracture/Test/IMG-0001-00001_jumbo_jpeg.rf.4af5e7c047bac2007869a5e19663eb77.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20240528%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240528T064533Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=66495992affad6da8d8a36889bdee365c8ed646f06edd97ac6d06c700323070976b666390add1735378fd083a8200c7f285550d9d3646b065a106e9ead85e1e7392d441ee9e90931e84b1aa0f87ef775040a792bb213a153532fb468875968e1b04579cecbd0c4b81432e51d11e7c5309017073f73ab3d4b91ebfc1297be1da9d299d33c700ed746f405d26cfac092367a078e64f3f4fac7e23b65addabb9da7a5dc7f2c845666e0142da6d4fd358fcd3a899e78207eab207cbad6a3f95c9ccb900cb41d265a093d4ed8d06f81017c91d4c25f756da0e11d7621c5185983806b35857fbafc1f8b1a1779eab57622577f6f62c4ff94a9d7bf41987901ac3c0a3a)
 
 
+![image](https://github.com/JK4milo/Prueba_Tecnica_ServiInformacion/blob/main/tutorial_assets_readme/PASO1.png)
+
+
 
 
