@@ -8,7 +8,7 @@ class FileExplorer(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("File Explorer")
+        self.title("Technical Test Servinformación")
         self.geometry("800x600")
 
         # Create the Treeview widget
