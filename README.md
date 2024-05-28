@@ -1,6 +1,7 @@
 
 # **PRUEBA TÉCNICA Servinformación.**
-##**Juan Camilo Botero Rendoón**
+
+## **Juan Camilo Botero Rendoón**
 
 Está es una prueba técnica para el puesto de Científico De Datos Junior para la empresa Servinformación.
 
